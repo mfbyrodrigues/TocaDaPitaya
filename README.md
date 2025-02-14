@@ -51,7 +51,7 @@ Website: www.tocadapitaya.com
 
 ## Agradecimentos
 
-Muito obrigado por visitar o repositório da **Swing & Ink Productions**! Seu interesse e apoio são extremamente valiosos para nós. Fique à vontade para explorar, contribuir e compartilhar o projeto com outros!
+Muito obrigado por visitar o repositório da **Toca da Pitaya**! Seu interesse e apoio são extremamente valiosos para nós. Fique à vontade para explorar, contribuir e compartilhar o projeto com outros!
 
 Se você tem sugestões ou dúvidas, sinta-se à vontade para abrir uma *issue* ou entrar em contato!
 
