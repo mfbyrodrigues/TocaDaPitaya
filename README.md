@@ -46,7 +46,7 @@ Este projeto é licenciado sob a licença MIT - tudo aqui é altamente fictício
 
 ## Contato
 
-Email: tocadapitaya@gmail.com
+Email: tocadapitaya@gmail.com </br>
 Website: www.tocadapitaya.com
 
 ## Agradecimentos
