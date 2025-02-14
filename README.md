@@ -2,7 +2,7 @@
 
 Bem-vindo ao repositório da **Toca da Pitaya**, uma empresa fictícia especializada na venda de pitayas frescas e deliciosas. Este projeto serve como modelo de layout para um site simples, sem responsividade, usando apenas HTML e CSS.
 
-## Visão Geral
+## Visão geral
 
 A **Toca da Pitaya** busca oferecer uma experiência única de sabor com pitayas cultivadas de forma sustentável e saudável. Nosso site foi criado para apresentar os produtos, destacar suas qualidades e oferecer informações sobre a empresa de forma simples e direta.
 
@@ -12,18 +12,18 @@ A **Toca da Pitaya** busca oferecer uma experiência única de sabor com pitayas
 - **Estilo Simples**: Design minimalista, com foco no uso de HTML e CSS.
 - **Sem Responsividade**: O layout não foi projetado para dispositivos móveis, focando apenas na versão desktop.
 
-## Tecnologias Usadas
+## Tecnologias usadas
 
-- **HTML5** para estruturação da página.
-- **CSS3** para estilização.
+- **HTML5** para estruturação da página;
+- **CSS3** para estilização;
 - **Visual Studio Code** para o ambiente de desenvolvimento.
   
 ## Como Contribuir
 
-1. Faça um fork deste repositório.
-2. Crie uma branch para sua feature (`git checkout -b feature/alguma-feature`).
-3. Commit suas mudanças (`git commit -am 'Adiciona nova feature'`).
-4. Envie para o repositório remoto (`git push origin feature/alguma-feature`).
+1. Faça um fork deste repositório;
+2. Crie uma branch para sua feature (`git checkout -b feature/alguma-feature`);
+3. Commit suas mudanças (`git commit -am 'Adiciona nova feature'`);
+4. Envie para o repositório remoto (`git push origin feature/alguma-feature`);
 5. Crie um pull request.
 
 ## Instalação
