@@ -1,6 +1,6 @@
 # Toca da Pitaya - Projeto metade da disciplina de Tecnologias Web
 
-Bem-vindo ao repositório da **Toca da Pitaya**, uma empresa fictícia especializada na venda de pitayas. Este projeto serve como modelo de layout para um site simples, sem responsividade, usando apenas HTML e CSS puros.
+Bem-vindo ao repositório da **Toca da Pitaya**, uma empresa fictícia especializada na venda de pitayas. Este projeto serve como modelo de layout para um site simples, sem responsividade, usando apenas HTML e CSS.
 
 ## 📌 Visão geral
 
