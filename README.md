@@ -41,16 +41,16 @@ cd toca-da-pitaya
 
 - Abra o `index.html` em seu navegador para visualizar o layout.
 
-## Licença
+## 📜 Licença
 
 Este projeto é licenciado sob a licença MIT - tudo aqui é altamente fictício.
 
-## Contato
+## 📬 Contato
 
-Email: tocadapitaya@gmail.com </br>
-Website: www.tocadapitaya.com
+✉️ **Email**: tocadapitaya@gmail.com </br>
+🌐 **Website**: www.tocadapitaya.com
 
-## Agradecimentos
+## 🙏 Agradecimentos
 
 Muito obrigado por visitar o repositório da **Toca da Pitaya**! Seu interesse e apoio são extremamente valiosos para nós. Fique à vontade para explorar, contribuir e compartilhar o projeto com outros!
 
