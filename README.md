@@ -8,8 +8,8 @@ A **Toca da Pitaya** busca oferecer uma experiência única de sabor com pitayas
 
 ## 🗂️ O que você vai encontrar por aqui
 
-- 🏠 **Página inicial**: Layout com informações sobre a empresa e produtos.  
-- 🎨 **Estilo simples**: Design minimalista, com foco no uso de HTML e CSS.  
+- 🏠 **Página inicial**: Layout com informações sobre a empresa e produtos;  
+- 🎨 **Estilo simples**: Design minimalista, com foco no uso de HTML e CSS;  
 - 📱 **Sem responsividade**: O layout não foi projetado para dispositivos móveis, apenas desktops.
 
 ## 💻 Tecnologias usadas
